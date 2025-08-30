@@ -30,4 +30,4 @@ Customer Locations → States across the USA
 ✅ Interactive Filters → Year & Month slicers for flexible analysis
 
 #### Screenshot/Demos
-Example:- ![Dashboard Preview](https://github.com/Tusharkumar-007/E-commerce-Sales-Dashboard/blob/main/E-commerce-sales%20Dashboard.png)
+ ![Dashboard Preview](https://github.com/Tusharkumar-007/E-commerce-Sales-Dashboard/blob/main/E-commerce-sales%20Dashboard.png)
